@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/necronomicon/pages"
+	"$bumpmap" "models/necronomicon/pages_normale"
+        "$surfaceprop" "paper"
+	"$model" 1
+}
