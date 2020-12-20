@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/uch_liquid/pubby"
+	"$translucent" 1
+	"$NoCull" 1
+}
+

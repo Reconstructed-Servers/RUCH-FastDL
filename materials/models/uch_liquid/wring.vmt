@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/uch_liquid/wring"
+	"$surfaceprop" "Metal_Box"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.8 0.8 0]"
+	"$envmapmask" "models/uch_liquid/wring_ref"
+}
