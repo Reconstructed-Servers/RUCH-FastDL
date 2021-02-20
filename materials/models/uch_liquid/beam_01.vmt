@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/uch_liquid/beam_01"
+	"$additive" 1
+	"$nocull" 1
+	"$translucent" 1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/uch_liquid/minamimoto_cellshadin"
+	"$translucent" 1
+}

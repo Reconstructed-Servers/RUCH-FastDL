@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/uch_liquid/ghat_poof"
+	"$nocull" 1
+	"$alphatest" 1
+}
