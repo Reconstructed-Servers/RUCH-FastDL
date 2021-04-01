@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/uch_mishamallow/string"
+	"$translucent" 1
+	"$NoCull" 1
+}
