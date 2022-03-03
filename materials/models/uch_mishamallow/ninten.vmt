@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/uch_mishamallow/ninten"
+	"$translucent" 1
+	"$NoCull" 1
+}
+
