@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/CubeMath/EasterEgg/pattern23"
+	"$surfaceprop" "Rock"
+}
