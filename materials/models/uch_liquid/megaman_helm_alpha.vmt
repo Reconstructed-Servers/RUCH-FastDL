@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/uch_liquid/megaman_helm"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "models/uch_liquid/megaman_helm_r"
-	"$translucent" 1
-	"$envmaptint" {.1 .1 1}
-}

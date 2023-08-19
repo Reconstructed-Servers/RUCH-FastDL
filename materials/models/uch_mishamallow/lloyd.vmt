@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/uch_mishamallow/lloyd"
-	"$translucent" 1
-	"$NoCull" 1
-}
-
