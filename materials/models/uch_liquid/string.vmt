@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/uch_liquid/string"
-	"$translucent" 1
-	"$NoCull" 1
-}

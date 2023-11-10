@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/uch_liquid/boner"
-	"$translucent" 1
-	"$NoCull" 1
-}
-
